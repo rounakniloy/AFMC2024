@@ -2,7 +2,7 @@
 
 *Please cite the following if you use this software tool.*
 
-R. S. Niloy, M. S. Islam and A. Jahin, "Machine Learning-Based Resistance Prediction of AMECRC Hull," 24th Australasian Fluid Mechanics Conference (AFMC 2024) [under review].
+R. S. Niloy, M. S. Islam, A. Jahin, M. R. Mozumder and R. Ahmed, "Machine learning-based resistance prediction of AMECRC hull," in Proceedings of 24th Australasian Fluid Mechanics Conference (AMFC 2024), Canberra, ACT, Australia, paper no.: AFMC2024-108, doi: 10.5281/zenodo.14213316.
 
 
 ## How to Install
