@@ -59,6 +59,6 @@ R. S. Niloy, M. S. Islam, A. Jahin, M. R. Mozumder and R. Ahmed, "Machine learni
    
 ## Contact Us
 Should you require any assistance regarding **ShipRes Version 1.0**, feel free to contact the authors at-
-- Rounak Saha Niloy (rniloy@student.unimelb.edu.au)
+- Rounak Saha Niloy (r.niloy@unsw.edu.au)
 - Md. Shariful Islam (sharif.naoe@gmail.com)
 - Abrar Jahin (azn1921@gmail.com)
